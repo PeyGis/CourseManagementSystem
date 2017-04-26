@@ -1,0 +1,90 @@
+body{
+     background: #141E30; 
+     color: #fff;
+    }
+
+form {
+	width: 96%;
+	border-radius: 0% 1%;
+	background-color: transparent;
+	margin: 1%;
+	padding: 1%;
+	}
+label {
+	font-size: 100%;
+	display: block;
+	color: black;
+	}
+legend{
+	color: #141E30;
+}
+input[type="submit"]{
+	background-color: #fff;
+	padding: 1%;
+	}
+input[type="submit"]:hover{
+	background-color: #141E30;
+	color: #fff;
+	cursor: pointer;
+	}
+	button{
+	background-color: #141E30;
+	color: #fff;
+	cursor: pointer;
+	}
+
+.container1{
+	width: 100%;
+	margin: 0%;
+	padding:;
+	float: left;
+}
+
+.menu{
+	width: 95%;
+	margin: 0;
+	padding: 0;
+	float: left;
+
+}
+
+.menu ul{
+	list-style-type: none;
+	text-align: center;
+	padding: 2% 0%;
+	margin:0px auto;
+}
+
+.menu ul li{
+	display: inline;
+}
+
+.menu ul li a{
+	color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	font-size: 100%;
+}
+
+.menu ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.footer{
+	color: #686868;
+	text-align: center;
+}
+.boxer{
+	float: left;
+	width: 35%;
+	margin: 1%;
+	padding: 1%;
+}
+.editbox{
+	width: 94%;
+	margin: 1%;
+	padding: 1%;
+	border:  5px solid #fff;
+}
